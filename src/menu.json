@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "Santa Fe Spring Rolls",
+          "description": "Beans and corn",
+          "price": 450
+        },
+        {
+          "name": "Potato Skins",
+          "description": "More of the ranch",
+          "price": 720
+        },
+        {
+          "name": "Monster Nachos",
+          "description": "Just like the other ones",
+          "price": 1195
+        }
+      ]
+    },
+    {
+      "name": "Entrees",
+      "items": [
+        {
+          "name": "Buffal Wings",
+          "description": "Yeah they are tasty",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Deep fried mars Bar",
+          "description": "Blame Glasgow",
+          "price": 699
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Lady fingers, coffee and cream",
+          "price": 599
+        },
+        {
+          "name": "Baklava",
+          "description": "Flakey pastry",
+          "price": 2000
+        }
+      ]
+    }
+  ]
+}

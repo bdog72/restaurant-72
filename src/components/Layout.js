@@ -7,8 +7,8 @@ class Layout extends Component {
     children: React.PropTypes.element.isRequired
   }
   render () {
-    return <div>
-      <h1 className='bd'>Burger Dog</h1>
+    return <div className='layout'>
+      <h1>Burger Dog</h1>
       <nav>
         <ul>
           <li>
