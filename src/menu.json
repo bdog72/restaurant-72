@@ -4,18 +4,18 @@
       "name": "Appetizers",
       "items": [
         {
-          "name": "Santa Fe Spring Rolls",
-          "description": "Beans and corn",
+          "name": "Cheese Sticks",
+          "description": "Served with Marinara",
           "price": 450
         },
         {
           "name": "Potato Skins",
-          "description": "More of the ranch",
+          "description": "HomeMade Ranch",
           "price": 720
         },
         {
           "name": "Monster Nachos",
-          "description": "Just like the other ones",
+          "description": "I hope you are hungry",
           "price": 1195
         }
       ]
@@ -34,8 +34,8 @@
       "name": "Desserts",
       "items": [
         {
-          "name": "Deep fried mars Bar",
-          "description": "Blame Glasgow",
+          "name": "Deep fried Hotdog",
+          "description": "LOL",
           "price": 699
         },
         {
