@@ -5,10 +5,25 @@ $base-font-family: sans-serif;
 
 html {
   text-size-adjust: 100%;
+  background-image: url(http://www.seaqueenhotel.com/media/french_fries.jpg);
 }
 
 body {
   @include font-smoothing(on);
   margin: 0;
   font: $base-text-size / 1 $base-font-family;
+}
+
+footer {
+  text-align: center;
+  margin-top: 100px;
+}
+.bd {
+  text-align: center;
+  font-size: 60px;
+}
+nav li{
+  display: flex;
+  padding: 20px;
+  font-size: 30px;
 }
